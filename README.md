@@ -1,2 +1,0 @@
-# ChatClient
-Chat client application
